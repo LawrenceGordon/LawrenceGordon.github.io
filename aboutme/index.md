@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bioinformatics Projects
-nav_order: 1
+title: About
+nav_order: 2
 has_children: false
 ---
 
