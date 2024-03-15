@@ -7,3 +7,7 @@ has_children: false
 ---
 
 This is the BARDiD Project
+
+![phylo](/images/bardid_1.png)
+
+![iola](/images/bardid_2.png)
