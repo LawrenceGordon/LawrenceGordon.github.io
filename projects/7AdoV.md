@@ -7,3 +7,9 @@ has_children: false
 ---
 
 This is the 7AdoV Project
+
+# Lawrence Gordon
+
+(images/7adov_2.png)
+
+(images/7adov_1.png)
