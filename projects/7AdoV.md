@@ -10,6 +10,6 @@ This is the 7AdoV Project
 
 # Lawrence Gordon
 
-![virus](images/7adov_2.png)
+![virus](LawrenceGordon.github.io/images/7adov_2.png)
 
-![phylo](images/7adov_1.png)
+![phylo](LawrenceGordon.github.io/images/7adov_1.png)
