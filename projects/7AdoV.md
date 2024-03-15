@@ -10,6 +10,6 @@ This is the 7AdoV Project
 
 # Lawrence Gordon
 
-(images/7adov_2.png)
+![home_page](images/7adov_2.png)
 
-(images/7adov_1.png)
+![home_page](images/7adov_1.png)
