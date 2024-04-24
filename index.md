@@ -18,5 +18,5 @@ Home Page blah
 >
 </iframe>
 
-[Try it yourself!](lawrencegordon.github.io/test-jupyter/lab/index.html){: .btn}
+[Try it yourself!](google.com){: .btn}
 
