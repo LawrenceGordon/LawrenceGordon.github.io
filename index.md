@@ -9,7 +9,7 @@ has_children: false
 
 ![home_page](images/logo.jpg)
 
-Home Page
+Home Page blah
 
 <iframe
   src="https://jupyterlite.github.io/demo/repl/index.html?kernel=python&toolbar=1"
