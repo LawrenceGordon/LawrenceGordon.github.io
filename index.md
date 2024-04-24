@@ -18,5 +18,5 @@ Home Page blah
 >
 </iframe>
 
-[Try it yourself!](google.com){: .btn}
+[Try it yourself!](https://www.google.com){: .btn}
 
