@@ -17,3 +17,7 @@ Home Page
   height="500px"
 >
 </iframe>
+
+Try it yourself!:
+[Click me](lawrencegordon.github.io/test-jupyter/){: .btn}
+
