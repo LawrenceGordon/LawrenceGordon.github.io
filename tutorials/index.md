@@ -8,6 +8,8 @@ has_children: false
 # Introduction
 This is a table of contents to the Hubbard Center for Genome Studies bioinformatic tutorials and resources. The development of these tutorials is supported by New Hampshire-INBRE through an Institutional Development Award (IDeA), P20GM103506, from the National Institute of General Medical Sciences of the NIH. The work is also supported by IPERT Grant 1R25GM125674-01 from the National Institute of General Medical Sciences of the NIH.
 
+![bioinf](/images/tuotrials_1.jpg)
+
 # Bioinformatic Tutorials on the Command-Line
 * Introduction to BASH and the Command-line environment.
   * <https://github.com/Joseph7e/HCGS-BASH-tutorial>
