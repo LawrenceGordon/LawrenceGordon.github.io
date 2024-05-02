@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 7AdoV
+title: Sevengill Shark Adomavirus
 nav_order: 1
 parent: Bioinformatics Projects
 has_children: false
