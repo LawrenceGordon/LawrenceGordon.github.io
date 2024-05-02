@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BARDiD
+title: Canine Respiratory Disease
 nav_order: 2
 parent: Bioinformatics Projects
 has_children: false
