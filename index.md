@@ -21,7 +21,7 @@ my_number = 4 + 7
 print(my_number)
 ```
 
-Try copying the `print("hello")` line into the python terminal below. What happens? Try changing the `"hello"` to your name, what's the difference in the output?
+Try copying the `print("hello")` line into the python terminal below and click the play button. What happens? Try changing the `"hello"` to your name, what's the difference in the output?
 
 <iframe src="https://jupyterlite.github.io/demo/repl/index.html?kernel=python&toolbar=1" width="100%" height="500px" > </iframe>
 
