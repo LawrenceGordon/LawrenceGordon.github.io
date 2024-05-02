@@ -10,38 +10,38 @@ This is a table of contents to the Hubbard Center for Genome Studies bioinformat
 
 # Bioinformatic Tutorials on the Command-Line
 * Introduction to BASH and the Command-line environment.
-  * https://github.com/Joseph7e/HCGS-BASH-tutorial  
+  * <https://github.com/Joseph7e/HCGS-BASH-tutorial>
 * Whole genome sequencing, assembly, annotation, and assessment.
-  * https://github.com/Joseph7e/MDIBL-T3-WGS-Tutorial  
+  * <https://github.com/Joseph7e/MDIBL-T3-WGS-Tutorial>  
 * Comparative genomics and retrieving NCBI genomes.
-  * https://github.com/Joseph7e/HCGS-Comparative-Genomics  
+  * <https://github.com/Joseph7e/HCGS-Comparative-Genomics>
 * Metabarcoding anlsysis with QIIME2.
-  * https://github.com/Joseph7e/HCGS_Metabarcoding_Tutorials  
+  * <https://github.com/Joseph7e/HCGS_Metabarcoding_Tutorials>  
 * Eukaryotic genome annotatio with MAKER.
-  * https://github.com/Joseph7e/MAKER-genome-annotations-tutorial  
+  * <https://github.com/Joseph7e/MAKER-genome-annotations-tutorial>  
 * Nanopore sequencing data analysis.
-  * https://github.com/Joseph7e/Nanopore-Workflow  
+  * <https://github.com/Joseph7e/Nanopore-Workflow>  
 * RNA-Seq differential expression analysis.
-  * https://github.com/LawrenceGordon/Differential-Expression-Analysis
+  * <https://github.com/LawrenceGordon/Differential-Expression-Analysis>
 * Genetic relatedness analysis.
-  * https://github.com/Joseph7e/genetic-relatedness
+  * <https://github.com/Joseph7e/genetic-relatedness>
 
 ## 
 
 # If you don't have command-line access:
 * Genetic relatedness analysis.
-  * https://github.com/Joseph7e/genetic-relatedness
+  * <https://github.com/Joseph7e/genetic-relatedness>
 
 # Additional Resources
 
 ## Learning Python
-  https://automatetheboringstuff.com/#toc
+  <https://automatetheboringstuff.com/#toc>
 
 ## Hubbard Center for Genome Studies YouTube tutorials  
-  https://www.youtube.com/@hubbardcenterforgenomestud5807
+  >https://www.youtube.com/@hubbardcenterforgenomestud5807>
 
 ## National Institute of General Medical Sciences Cloud Learning Modules  
-https://github.com/NIGMS/NIGMS-Sandbox/tree/main  
+<https://github.com/NIGMS/NIGMS-Sandbox/tree/main>
 * Fundamentals of Bioinformatics - Dartmouth College  
 * DNA Methylation Sequencing Analysis with WGBS - University of Hawaii at Manoa  
 * Transcriptome Assembly Refinement and Applications - MDI Biological Laboratory  
@@ -56,6 +56,6 @@ https://github.com/NIGMS/NIGMS-Sandbox/tree/main
 * Biomedical Imaging Analysis using AI/ML approaches - University of Arkansas
 
 ## Other online tutorials/workflows
-Single-cell RNAseq tutorial - https://github.com/hbctraining/scRNA-seq_online
+Single-cell RNAseq tutorial - <https://github.com/hbctraining/scRNA-seq_online>
 
-Contents on this page can also be found on the centralized GitHub page https://github.com/Joseph7e/Bioinformatic-Tutorials
+Contents on this page can also be found on the centralized GitHub page <https://github.com/Joseph7e/Bioinformatic-Tutorials>
