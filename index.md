@@ -27,8 +27,4 @@ Try copying the `print("hello")` line into the python terminal below and click t
 
 While this code is very simple, the principles behind more complex bioinformatics programs remain the same. Below you will find a tutorial to bioinformatics program, click the button to try it yourself!
 
-{:.center}
 [Click here to access the tutorial!](https://lawrencegordon.github.io/bioinformatics-tutorial/lab/index.html?path=kmer_distance_estimation.ipynb){: .btn}
-.center {
-  text-align: center;
-}
