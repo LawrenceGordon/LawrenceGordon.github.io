@@ -18,8 +18,6 @@ Using a dynamic and thorough molecular virology workflow—including both phylog
 
 Genomic, transcriptomic, and in situ data are meshed to match molecular and pathological evidence of epidermal virus proliferation with host response, identifying the broadnose sevengill shark adomavirus as the likely causative agent of the hyperplastic lesions. Structural prediction of 7AdoV capsid proteins reviewals the structure below encoding the hexon gene.
 
-<video width="320" height="240" controls>
+<video width="500" height="500" controls>
   <source src="/images/7AdoV_movie.mp4" type="video/mp4">
 </video>
-
-![hexon](/images/7AdoV_movie.mp4)
