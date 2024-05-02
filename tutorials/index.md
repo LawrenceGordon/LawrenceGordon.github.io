@@ -28,8 +28,6 @@ This is a table of contents to the Hubbard Center for Genome Studies bioinformat
 * Genetic relatedness analysis.
   * <https://github.com/Joseph7e/genetic-relatedness>
 
-## 
-
 # If you don't have command-line access:
 * Genetic relatedness analysis.
   * <https://github.com/Joseph7e/genetic-relatedness>
