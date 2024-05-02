@@ -8,6 +8,8 @@ has_children: false
 
 # Sevengill Shark Adomavirus
 
+![lesion](/images/lesion.png)
+
 Using metagenomics, we were able to detect a previously unknown adomavirus from a broadnose sevengill shark (Notorynchus cepedianus) presenting with epidermally proliferative skin lesions. A BLAST alignment to the most closely related guitarfish (Rhynchobatus djiddensis) adomavirus allowed for the identification and characterization of the novel alpha-adomavirus, the first of its kind identified in the cow shark family (Hexanchidae).
 
 ![virus](/images/7adov_2.png)
