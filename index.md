@@ -8,7 +8,7 @@ has_children: false
 # What is bioinformatics?
 ![splash_1](/images/splash_1.png)
 
-Bioinformatics is the science that deals with computational analysis of biological information. It is essential in the field of genomics, where DNA sequence analysis is crucial to understanding a wide variety of organism. Bioinformatics is important as it deals with the increasingly large datasets produced by scientists every day. As these datasets reach larger and larger sizes, humans are no longer able to effectively process and make meaning of these datasets. Thankfully, bioinformaticians are able to use programs to have the computers do the heavy lifting.
+Bioinformatics is the science that deals with computational analysis of biological information. It is essential in the field of genomics, where DNA sequence analysis is crucial to understanding a wide variety of organisms. Bioinformatics is important as it deals with the increasingly large datasets produced by scientists every day. As these datasets reach larger and larger sizes, humans are no longer able to effectively process and make meaning of these datasets. Thankfully, bioinformaticians are able to use programs to have the computers do the heavy lifting.
 
 # How do bioinformaticians use programs to perform their analyses?
 
