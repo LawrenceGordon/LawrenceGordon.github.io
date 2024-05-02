@@ -2,7 +2,7 @@
 layout: default
 title: Bioinformatics Tutorials & Resources
 nav_order: 4
-has_children: true
+has_children: false
 ---
 
 # Introduction
