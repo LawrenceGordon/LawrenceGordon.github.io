@@ -40,7 +40,7 @@ This is a table of contents to the Hubbard Center for Genome Studies bioinformat
   <https://automatetheboringstuff.com/#toc>
 
 ## Hubbard Center for Genome Studies YouTube tutorials  
-  >https://www.youtube.com/@hubbardcenterforgenomestud5807>
+  <https://www.youtube.com/@hubbardcenterforgenomestud5807>
 
 ## National Institute of General Medical Sciences Cloud Learning Modules  
 <https://github.com/NIGMS/NIGMS-Sandbox/tree/main>
