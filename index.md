@@ -18,5 +18,5 @@ Home Page blahasdf
 >
 </iframe>
 
-[Try it yourself!](https://lawrencegordon.github.io/test-jupyter/lab/index.html?path=kmer_distance_estimation.ipynb){: .btn}
+[Try it yourself!](https://lawrencegordon.github.io/bioinformatics-tutorial/lab/index.html?path=kmer_distance_estimation.ipynb){: .btn}
 
